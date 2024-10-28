@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Bluetooth Headphones",
+    "image": "https://m.media-amazon.com/images/I/71RFdy6y6LL._AC_UY327_FMwebp_QL65_.jpg",
+    "price": "59.99",
+    "currency": "USD",
+    "description": "High-quality Bluetooth headphones with noise cancellation and up to 20 hours of playtime.",
+    "category": "Electronics",
+    "stock": 25,
+    "rating": 4.5,
+    "reviews": 215
+  },
+  {
+    "id": "2",
+    "name": "Smartwatch Series 5",
+    "image": "https://m.media-amazon.com/images/I/61FQOvP93fL._AC_UY327_FMwebp_QL65_.jpg",
+    "price": "199.99",
+    "currency": "USD",
+    "description": "Feature-rich smartwatch with heart-rate monitor, GPS, and waterproof design.",
+    "category": "Wearables",
+    "stock": 10,
+    "rating": 4.7,
+    "reviews": 110
+  },
+  {
+    "id": "3",
+    "name": "Wireless Charging Pad",
+    "image": "https://m.media-amazon.com/images/I/61WDSnen9NL._AC_UY327_FMwebp_QL65_.jpg",
+    "price": "29.99",
+    "currency": "USD",
+    "description": "Slim wireless charging pad compatible with all Qi-enabled devices.",
+    "category": "Accessories",
+    "stock": 50,
+    "rating": 4.2,
+    "reviews": 300
+  },
+  {
+    "id": "4",
+    "name": "4K Action Camera",
+    "image": "https://m.media-amazon.com/images/I/61xl4inLS5L._AC_UY327_FMwebp_QL65_.jpg",
+    "price": "9,797.99",
+    "currency": "USD",
+    "description": "Waterproof 4K action camera with wide-angle lens and remote control.",
+    "category": "Cameras",
+    "stock": 15,
+    "rating": 4.3,
+    "reviews": 160
+  },
+  {
+    "id": "5",
+    "name": "Portable Power Bank - 10000mAh",
+    "image": "https://m.media-amazon.com/images/I/51cVWTAZTQL._SL1500_.jpg",
+    "price": "699",
+    "currency": "USD",
+    "description": "Compact power bank with fast charging capabilities for all devices.",
+    "category": "Accessories",
+    "stock": 100,
+    "rating": 4.6,
+    "reviews": 500
+  }
+]
